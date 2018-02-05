@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+builds/
+Builds/
+Assets/StandardAssets/
+Assets/StandardAssets.meta
+Assets/RootMotion/
+Assets/RootMotion.meta
+Assets/SteamVR/
+Assets/SteamVR.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+/tools/builder/appcache
+/tools/builder/logs
